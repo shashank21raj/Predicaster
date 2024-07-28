@@ -31,7 +31,7 @@ python app.py
 ```
 6. **Set up the Client (in a new terminal window)**
 ```bash
-cd ../Client
+cd ../client
 npm i
 npm start
 ```
