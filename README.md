@@ -20,13 +20,14 @@ This repository contains large files tracked by Git LFS. To properly download an
 
 2. **Clone the repository**
 git clone https://github.com/shashank21raj/predicaster.git
+
 cd predicaster
-3. **Set up the Predicaster backend**
+4. **Set up the Predicaster backend**
 cd Predicater/Predicaster
 pip install -r requirements.txt
 python app.py
 
-4. **Set up the Client (in a new terminal window)**
+5. **Set up the Client (in a new terminal window)**
 cd ../Client
 npm i
 npm start
